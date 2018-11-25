@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "711482170563",
+    "firebase_url": "https://ggwp-flutter.firebaseio.com",
+    "project_id": "ggwp-flutter",
+    "storage_bucket": "ggwp-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711482170563:android:97005052ee5369cd",
+        "android_client_info": {
+          "package_name": "com.example.homework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711482170563-2vll2rujkk18cmf469io2b638d8aqf39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMpGHQ62hd_BwKgtV8-40BxWUvP-R-Ubc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
